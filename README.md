@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./img/headshot.jpg" alt="Martin Selfie" width="180" align="right" style="margin: 30px">
+<img src="img/headshot.jpg" alt="Martin Selfie" width="180" align="right" style="margin: 30px">
 
 I am Dr Martin Chorley.
 
