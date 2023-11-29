@@ -4,7 +4,7 @@
 
 I am Dr Martin Chorley.
 
-I'm a Reader at the [School of Computer Science &amp; Informatics](http://www.cardiff.ac.uk/computer-science/), Cardiff University. I am the Director of Learning and Teaching for the school, which means I look after our Undergraduate and Taught Postgraduate programmes and students.
+I'm a Reader at the [School of Computer Science &amp; Informatics](http://www.cardiff.ac.uk/computer-science/), Cardiff University. I am the Dean of Undergraduate Studies for the College of Physical Sciences and Engineering. 
 
 I’m programme leader for the [MSc in Computational and Data Journalism](http://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/computational-and-data-journalism-msc), our innovative joint-honours degree with the [School of Journalism, Media and Culture (JOMEC)](http://www.cardiff.ac.uk/journalism-media-and-culture). I helped design the course with colleagues from JOMEC and teach on many of the modules.
 
