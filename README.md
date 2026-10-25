@@ -2,7 +2,7 @@
 
 <img src="https://github.com/martinjc/martinjc/raw/master/img/headshot.jpg" alt="Martin Selfie" width="180" align="right" style="margin: 30px">
 
-I am Dr Martin Chorley.
+I am Martin Chorley.
 
 I'm a Professor at the [School of Computational and Mathematical Sciences]([http://www.cardiff.ac.uk/computer-science/](https://www.cardiff.ac.uk/about/organisation/colleges-schools/school-of-computational-and-mathematical-sciences)), Cardiff University. I am the Dean of Education and Student Experience for the College of Physical Sciences and Engineering. 
 
